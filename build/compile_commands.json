@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/home/anton/C-Homework-6.7/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/C-homework_6.7.dir/main.cpp.o -c /home/anton/C-Homework-6.7/main.cpp",
+  "file": "/home/anton/C-Homework-6.7/main.cpp"
+},
+
+{
+  "directory": "/home/anton/C-Homework-6.7/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/C-homework_6.7.dir/portable_vacuum_cleaner.cpp.o -c /home/anton/C-Homework-6.7/portable_vacuum_cleaner.cpp",
+  "file": "/home/anton/C-Homework-6.7/portable_vacuum_cleaner.cpp"
+},
+
+{
+  "directory": "/home/anton/C-Homework-6.7/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/C-homework_6.7.dir/appliance.cpp.o -c /home/anton/C-Homework-6.7/appliance.cpp",
+  "file": "/home/anton/C-Homework-6.7/appliance.cpp"
+},
+
+{
+  "directory": "/home/anton/C-Homework-6.7/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/C-homework_6.7.dir/portable.cpp.o -c /home/anton/C-Homework-6.7/portable.cpp",
+  "file": "/home/anton/C-Homework-6.7/portable.cpp"
+}
+]

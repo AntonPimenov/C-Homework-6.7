@@ -1,0 +1,6 @@
+# ninja log v5
+0	410	1708535161664369963	CMakeFiles/C-homework_6.7.dir/main.cpp.o	633a55be56d7a41a
+1	419	1708535161672370258	CMakeFiles/C-homework_6.7.dir/portable.cpp.o	b9edae47819332d6
+0	439	1708535161692370997	CMakeFiles/C-homework_6.7.dir/portable_vacuum_cleaner.cpp.o	5a9115c540a2d00e
+0	447	1708535161700371292	CMakeFiles/C-homework_6.7.dir/appliance.cpp.o	2e5a505480707ef7
+447	530	1708535161780374246	C-homework_6.7	fdc1f25d3b6331e0
